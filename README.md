@@ -1,8 +1,7 @@
 - 👋 Hi, I'm Muhammad Bilal Qadri
-- ✨ I'm a Software Engineer, web developer with working experience in React.js, Next.js, Gatsby.js, Astro.js, and T3Stack
-- 👀 I'm interested in BlockChain, CryptoGraphy, Ethereum, Web3.0, ML, Data Science  
-- 🌱 I'm currently learning Solidity
-- 💞️ I'm looking to collaborate on BlockChain and Web Development
+- ✨ I'm a Software Engineer, web developer with working experience in NestJS, HonoJS, Ethers.JS.
+- 👀 I'm interested in BlockChain, CryptoGraphy, Ethereum, Web3.0, Backend Development.
+- 🌱 I'm currently start learning Solidity
 - 📫 Reach me on Linkedin : Link: [Muhammad Bilal Qadri](https://www.linkedin.com/in/muhammad-bilal-qadri/)
 
 
