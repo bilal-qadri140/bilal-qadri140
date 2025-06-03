@@ -1,5 +1,3 @@
-![](https://leetcard.jacoblin.cool/bilalattari1409l?ext=heatmap)
-![](https://www.linkedin.com/in/muhammad-bilal-qadri-a29498220/)
 - 👋 Hi, I'm Muhammad Bilal Qadri
 - ✨ I'm a Software Engineer, web developer with working experience in React.js, Next.js, Gatsby.js, Astro.js, and T3Stack
 - 👀 I'm interested in BlockChain, CryptoGraphy, Ethereum, Web3.0, ML, Data Science  
@@ -9,7 +7,8 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal-qadri140&theme=dark)
-
+![](https://leetcard.jacoblin.cool/bilalattari1409l?ext=heatmap)
+![](https://www.linkedin.com/in/muhammad-bilal-qadri-a29498220/)
 <!---
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hammad395&theme=vision-friendly-dark" />
